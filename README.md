@@ -77,7 +77,7 @@
 <img src="https://cloud.githubusercontent.com/assets/21355219/24340801/eca67a8e-12ef-11e7-9643-7cd876e42006.png" width="1080">
 
 # "Tiananmen" image dehazed by proposed CEP
-<img src="https://cloud.githubusercontent.com/assets/21355219/24340800/eca49494-12ef-11e7-8a80-8d37195e325e.png" width="1080">
+<img src="https://cloud.githubusercontent.com/assets/21355219/24344367/23b1a2f4-1306-11e7-8ec3-6d65b7ee5783.png" width="1080">
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Cityscape" image
