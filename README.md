@@ -170,5 +170,36 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![stadium_cl](https://cloud.githubusercontent.com/assets/21355219/24341287/9faa6be2-12f3-11e7-8eba-2ff911e841e4.png)
 # Dehazed by proposed CEP
 ![stadium_cep](https://cloud.githubusercontent.com/assets/21355219/24341286/9fa96df0-12f3-11e7-9f41-b8677874d222.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "KHU1" image
+![khu1](https://cloud.githubusercontent.com/assets/21355219/24353969/19b94322-132b-11e7-9c2d-6c46a391ac37.png)
+# Dehazed by proposed CEP
+![khu1_cep](https://cloud.githubusercontent.com/assets/21355219/24353967/19b73af0-132b-11e7-93e1-80602044597c.png)
+# Transmission by proposed CEP
+![khu1_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24353968/19b81c54-132b-11e7-9b56-012dafc0450c.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "KHU1" image
+# Dehazed by proposed CEP
+# Transmission by proposed CEP
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "KHU1" image
+# Dehazed by proposed CEP
+# Transmission by proposed CEP
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "KHU1" image
+# Dehazed by proposed CEP
+# Transmission by proposed CEP
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "KHU1" image
+# Dehazed by proposed CEP
+# Transmission by proposed CEP
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "KHU1" image
+# Dehazed by proposed CEP
+# Transmission by proposed CEP
+
+
+
+
 
 
