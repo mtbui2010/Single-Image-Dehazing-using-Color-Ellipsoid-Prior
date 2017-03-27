@@ -65,4 +65,15 @@
 ![cityscape_hl](https://cloud.githubusercontent.com/assets/21355219/24340870/7b1e66c8-12f0-11e7-8776-efa932e890a1.png)
 # "Cityscape" image dehazed by proposed CEP
 ![cityscape_cep](https://cloud.githubusercontent.com/assets/21355219/24340868/7b1dfaf8-12f0-11e7-9f59-b4363c992da6.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Cityscape" image
+![flags_input](https://cloud.githubusercontent.com/assets/21355219/24341028/bf6d0f7c-12f1-11e7-862e-1b5423c90d1a.png)
+# "Cityscape" image dehazed by DCP
+![flags_dc](https://cloud.githubusercontent.com/assets/21355219/24341027/bf6a1628-12f1-11e7-87c9-ee1a6597426f.png)
+# "Cityscape" image dehazed by Color-line
+![flags_cl](https://cloud.githubusercontent.com/assets/21355219/24341026/bf6600ce-12f1-11e7-8a2e-ad518c07ada9.png)
+# "Cityscape" image dehazed by Haze-line
+![flags_hl](https://cloud.githubusercontent.com/assets/21355219/24341030/bf71d0fc-12f1-11e7-88aa-adb3436a160a.png)
+# "Cityscape" image dehazed by proposed CEP
+![flags_cep](https://cloud.githubusercontent.com/assets/21355219/24341029/bf70fdb2-12f1-11e7-9593-a7f9425e8a88.png)
 
