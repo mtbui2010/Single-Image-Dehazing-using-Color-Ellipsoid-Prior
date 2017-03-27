@@ -13,7 +13,7 @@
 <img src="https://cloud.githubusercontent.com/assets/21355219/24340592/70837728-12ee-11e7-8e7f-fe142b90d46e.png" width="1080">
 
 # "Forest" image dehazed by proposed CEP
-<img src="https://cloud.githubusercontent.com/assets/21355219/24340609/88e658d0-12ee-11e7-87fc-c19a0be78890.png" width="1080">
+<img src="https://cloud.githubusercontent.com/assets/21355219/24344146/0eecf5d6-1305-11e7-917d-80ad2581a065.png" width="1080">
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Cones" image
