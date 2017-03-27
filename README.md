@@ -120,5 +120,16 @@
 ![ny12_hl](https://cloud.githubusercontent.com/assets/21355219/24341192/09324b1c-12f3-11e7-9502-c635de7e60df.png)
 # "Mahattan" image dehazed by proposed CEP
 ![ny12_cep](https://cloud.githubusercontent.com/assets/21355219/24341195/09351702-12f3-11e7-8454-43cbf8818e34.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Swan" image
+![swan_input](https://cloud.githubusercontent.com/assets/21355219/24341248/5b1146ea-12f3-11e7-8313-af494dd8f37a.png)
+# "Swan" image dehazed by DCP
+![swan_dc](https://cloud.githubusercontent.com/assets/21355219/24341246/5b10ef88-12f3-11e7-91bc-0d8818c1bba1.png)
+# "Swan" image dehazed by Color-line
+![swan_cl](https://cloud.githubusercontent.com/assets/21355219/24341249/5b11782c-12f3-11e7-8a84-3edbae7c21b3.png)
+# "Swan" image dehazed by Haze-line
+![swan_hl](https://cloud.githubusercontent.com/assets/21355219/24341250/5b117976-12f3-11e7-9f80-684006254f5b.png)
+# "Swan" image dehazed by proposed CEP
+![swan_cep](https://cloud.githubusercontent.com/assets/21355219/24341247/5b114a3c-12f3-11e7-98c2-a22ac1fb1974.png)
 
 
