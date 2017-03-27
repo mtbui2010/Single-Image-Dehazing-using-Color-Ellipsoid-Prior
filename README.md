@@ -5,6 +5,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Forest" image
 ![forest_input](https://cloud.githubusercontent.com/assets/21355219/24338271/05f9d5a0-12df-11e7-9eac-bbbb4a71f9ad.png)
+# Transmission by proposed CEP
+![forest_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352661/7a25b96c-1325-11e7-8f62-5be667b75ced.png)
 # Dehazed by DCP
 ![forest_dc](https://cloud.githubusercontent.com/assets/21355219/24340534/ec8c5e58-12ed-11e7-95de-e2f4184c4d72.png)
 # Dehazed by Color-line
@@ -16,6 +18,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Cones" image
 ![cones_input](https://cloud.githubusercontent.com/assets/21355219/24340658/e8ba23d6-12ee-11e7-96ec-7c87e58a7f54.png)
+# Transmission by proposed CEP
+![cones_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352658/7a24e1ae-1325-11e7-8caa-b98024bfa20a.png)
 # Dehazed by DCP
 ![cones_dc](https://cloud.githubusercontent.com/assets/21355219/24340666/fded229e-12ee-11e7-93d6-ed6f580503e7.png)
 # Dehazed by Color-line
@@ -27,6 +31,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "House" image
 ![house_input](https://cloud.githubusercontent.com/assets/21355219/24340699/356c1900-12ef-11e7-8645-311d2cf12cb2.png)
+# Transmission by proposed CEP
+![house_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352659/7a254a4a-1325-11e7-887a-5b8aa76bbff1.png)
 # Dehazed by DCP
 ![house_dc](https://cloud.githubusercontent.com/assets/21355219/24340701/356c5e10-12ef-11e7-914e-184fcb63285c.png)
 # Dehazed by Color-line
@@ -38,6 +44,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Road" image
 ![road_input](https://cloud.githubusercontent.com/assets/21355219/24340765/991b916a-12ef-11e7-8c29-087faf44a445.png)
+# Transmission by proposed CEP
+![road_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352663/7a299370-1325-11e7-8656-436b20dedb9e.png)
 # Dehazed by DCP
 ![road_dc](https://cloud.githubusercontent.com/assets/21355219/24340763/98ff0b4e-12ef-11e7-8c1d-2d659eca7a2f.png)
 # Dehazed by Color-line
@@ -49,6 +57,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Tiananmen" image
 ![tiananmen_input](https://cloud.githubusercontent.com/assets/21355219/24340802/eca6be86-12ef-11e7-9bcf-1ff9cef18e91.png)
+# Transmission by proposed CEP
+![tiananmen_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352665/7a4e3612-1325-11e7-86e4-d1adb480ae00.png)
 # Dehazed by DCP
 ![tiananmen_dc](https://cloud.githubusercontent.com/assets/21355219/24340804/eca74fcc-12ef-11e7-9510-9dbf5ed6fa05.png)
 # Dehazed by Color-line
@@ -60,6 +70,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Cityscape" image
 ![cityscape_input](https://cloud.githubusercontent.com/assets/21355219/24340871/7b2066ee-12f0-11e7-84b3-e6a15b1cf99b.png)
+# Transmission by proposed CEP
+![cityscape_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352657/7a00feec-1325-11e7-8032-b0debc6b4565.png)
 # Dehazed by DCP
 ![cityscape_dc](https://cloud.githubusercontent.com/assets/21355219/24340867/7b1d0bac-12f0-11e7-9313-e6dfb1a3a352.png)
 # Dehazed by Color-line
@@ -69,8 +81,10 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Dehazed by proposed CEP
 ![cityscape_cep](https://cloud.githubusercontent.com/assets/21355219/24340868/7b1dfaf8-12f0-11e7-9f59-b4363c992da6.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "Cityscape" image
+# Input "Flags" image
 ![flags_input](https://cloud.githubusercontent.com/assets/21355219/24341028/bf6d0f7c-12f1-11e7-862e-1b5423c90d1a.png)
+# Transmission by proposed CEP
+![flags_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352660/7a2595fe-1325-11e7-9a45-26a61261957e.png)
 # Dehazed by DCP
 ![flags_dc](https://cloud.githubusercontent.com/assets/21355219/24341027/bf6a1628-12f1-11e7-87c9-ee1a6597426f.png)
 # Dehazed by Color-line
@@ -82,6 +96,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Tree" image
 ![tree_input](https://cloud.githubusercontent.com/assets/21355219/24341085/266b29b6-12f2-11e7-8815-16dfa7f33aad.png)
+# Transmission by proposed CEP
+![tree_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352668/7a4fcb30-1325-11e7-97e1-14594900b3cc.png)
 # Dehazed by DCP
 ![tree_dc](https://cloud.githubusercontent.com/assets/21355219/24341087/266b3a3c-12f2-11e7-835b-efe98118a0d9.png)
 # Dehazed by Color-line
@@ -93,6 +109,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Train" image
 ![train_input](https://cloud.githubusercontent.com/assets/21355219/24341127/70c7b448-12f2-11e7-87a6-211672d97774.png)
+# Transmission by proposed CEP
+![train_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352666/7a4e7f8c-1325-11e7-99f9-e755195f9d6e.png)
 # "Train" image dehazed by DCP
 ![train_dc](https://cloud.githubusercontent.com/assets/21355219/24341126/70c781a8-12f2-11e7-897b-45ad850ce687.png)
 # Dehazed by Color-line
@@ -104,6 +122,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Canon" image
 ![canon_input](https://cloud.githubusercontent.com/assets/21355219/24341157/b294e508-12f2-11e7-846a-76802c21aa4d.png)
+# Transmission by proposed CEP
+![canon_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352656/79d7e48a-1325-11e7-89ae-5a5812c0d07d.png)
 # Dehazed by DCP
 ![canon_dc](https://cloud.githubusercontent.com/assets/21355219/24341156/b29475dc-12f2-11e7-8f1e-f57728e07402.png)
 # Dehazed by Color-line
@@ -115,6 +135,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Mahattan" image
 ![ny12_input](https://cloud.githubusercontent.com/assets/21355219/24341194/09327394-12f3-11e7-9e83-db132829a4fb.png)
+# Transmission by proposed CEP
+![ny12_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352662/7a277518-1325-11e7-922b-6b43e02e3bcd.png)
 # Dehazed by DCP
 ![ny12_dc](https://cloud.githubusercontent.com/assets/21355219/24341191/09322b1e-12f3-11e7-9ab1-f8af385babe5.png)
 # Dehazed by Color-line
@@ -125,7 +147,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![ny12_cep](https://cloud.githubusercontent.com/assets/21355219/24341195/09351702-12f3-11e7-8454-43cbf8818e34.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Swan" image
-![swan_input](https://cloud.githubusercontent.com/assets/21355219/24341248/5b1146ea-12f3-11e7-8313-af494dd8f37a.png)
+![swan_input](https://cloud.githubusercontent.com/assets/21355219/24341248/5b1146ea-12f3-11e7-8313-af494dd8f37a.png)# Transmission by proposed CEP
+![swan_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352667/7a4e4d6e-1325-11e7-9dce-8963a13c0d55.png)
 # Dehazed by DCP
 ![swan_dc](https://cloud.githubusercontent.com/assets/21355219/24341246/5b10ef88-12f3-11e7-91bc-0d8818c1bba1.png)
 # Dehazed by Color-line
@@ -137,6 +160,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Stadium" image
 ![stadium_input](https://cloud.githubusercontent.com/assets/21355219/24341284/9fa91936-12f3-11e7-89d3-a5f84b42d882.png)
+# Transmission by proposed CEP
+![stadium_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352664/7a4c88ee-1325-11e7-8148-69ab5488bc13.png)
 # Dehazed by DCP
 ![stadium_dc](https://cloud.githubusercontent.com/assets/21355219/24341285/9fa96bca-12f3-11e7-9e26-3a4550c93972.png)
 # Dehazed by Color-line
