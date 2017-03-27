@@ -131,5 +131,16 @@
 ![swan_hl](https://cloud.githubusercontent.com/assets/21355219/24341250/5b117976-12f3-11e7-9f80-684006254f5b.png)
 # "Swan" image dehazed by proposed CEP
 ![swan_cep](https://cloud.githubusercontent.com/assets/21355219/24341247/5b114a3c-12f3-11e7-98c2-a22ac1fb1974.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Stadium" image
+![stadium_input](https://cloud.githubusercontent.com/assets/21355219/24341284/9fa91936-12f3-11e7-89d3-a5f84b42d882.png)
+# "Stadium" image dehazed by DCP
+![stadium_dc](https://cloud.githubusercontent.com/assets/21355219/24341285/9fa96bca-12f3-11e7-9e26-3a4550c93972.png)
+# "Stadium" image dehazed by Color-line
+![stadium_hl](https://cloud.githubusercontent.com/assets/21355219/24341288/9fadf21c-12f3-11e7-97c7-6438190276bb.png)
+# "Stadium" image dehazed by Haze-line
+![stadium_cl](https://cloud.githubusercontent.com/assets/21355219/24341287/9faa6be2-12f3-11e7-8eba-2ff911e841e4.png)
+# "Stadium" image dehazed by proposed CEP
+![stadium_cep](https://cloud.githubusercontent.com/assets/21355219/24341286/9fa96df0-12f3-11e7-9f41-b8677874d222.png)
 
 
