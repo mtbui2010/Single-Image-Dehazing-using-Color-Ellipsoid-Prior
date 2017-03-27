@@ -16,7 +16,6 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Cones" image
 ![cones_input](https://cloud.githubusercontent.com/assets/21355219/24340658/e8ba23d6-12ee-11e7-96ec-7c87e58a7f54.png)
-![cones_input](https://cloud.githubusercontent.com/assets/21355219/24340658/e8ba23d6-12ee-11e7-96ec-7c87e58a7f54.png)
 # "Cones" image dehazed by DCP
 ![cones_dc](https://cloud.githubusercontent.com/assets/21355219/24340666/fded229e-12ee-11e7-93d6-ed6f580503e7.png)
 # "Cones" image dehazed by Color-line
@@ -26,8 +25,7 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # "Cones" image dehazed by proposed CEP
 ![cones_cep](https://cloud.githubusercontent.com/assets/21355219/24340680/125f9630-12ef-11e7-9e1d-a52a457c0616.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "House" image and tranmission map
-![house_input](https://cloud.githubusercontent.com/assets/21355219/24340699/356c1900-12ef-11e7-8645-311d2cf12cb2.png)
+# Input "House" image
 ![house_input](https://cloud.githubusercontent.com/assets/21355219/24340699/356c1900-12ef-11e7-8645-311d2cf12cb2.png)
 # "House" image dehazed by DCP
 ![house_dc](https://cloud.githubusercontent.com/assets/21355219/24340701/356c5e10-12ef-11e7-914e-184fcb63285c.png)
