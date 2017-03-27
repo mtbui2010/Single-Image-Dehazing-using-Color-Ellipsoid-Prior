@@ -87,4 +87,15 @@
 ![tree_hl](https://cloud.githubusercontent.com/assets/21355219/24341083/266917de-12f2-11e7-908f-bedef8140dd4.png)
 # "Tree" image dehazed by proposed CEP
 ![tree_cep](https://cloud.githubusercontent.com/assets/21355219/24341086/266b4b30-12f2-11e7-924c-adeb5eb9dff6.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Train" image
+![train_input](https://cloud.githubusercontent.com/assets/21355219/24341127/70c7b448-12f2-11e7-87a6-211672d97774.png)
+# "Train" image dehazed by DCP
+![train_dc](https://cloud.githubusercontent.com/assets/21355219/24341126/70c781a8-12f2-11e7-897b-45ad850ce687.png)
+# "Train" image dehazed by Color-line
+![train_cl](https://cloud.githubusercontent.com/assets/21355219/24341129/70ca0bbc-12f2-11e7-88b5-0f525e780a25.png)
+# "Train" image dehazed by Haze-line
+![train_hl](https://cloud.githubusercontent.com/assets/21355219/24341128/70c85cb8-12f2-11e7-88fa-d9969b39feff.png)
+# "Train" image dehazed by proposed CEP
+![train_cep](https://cloud.githubusercontent.com/assets/21355219/24341125/70c73cfc-12f2-11e7-92d5-f850f951f30f.png)
 
