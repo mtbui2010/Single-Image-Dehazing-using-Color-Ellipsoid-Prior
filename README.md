@@ -76,4 +76,15 @@
 ![flags_hl](https://cloud.githubusercontent.com/assets/21355219/24341030/bf71d0fc-12f1-11e7-88aa-adb3436a160a.png)
 # "Cityscape" image dehazed by proposed CEP
 ![flags_cep](https://cloud.githubusercontent.com/assets/21355219/24341029/bf70fdb2-12f1-11e7-9593-a7f9425e8a88.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Tree" image
+![tree_input](https://cloud.githubusercontent.com/assets/21355219/24341085/266b29b6-12f2-11e7-8815-16dfa7f33aad.png)
+# "Tree" image dehazed by DCP
+![tree_dc](https://cloud.githubusercontent.com/assets/21355219/24341087/266b3a3c-12f2-11e7-835b-efe98118a0d9.png)
+# "Tree" image dehazed by Color-line
+![tree_cl](https://cloud.githubusercontent.com/assets/21355219/24341084/2669774c-12f2-11e7-88e1-9d45cb25979d.png)
+# "Tree" image dehazed by Haze-line
+![tree_hl](https://cloud.githubusercontent.com/assets/21355219/24341083/266917de-12f2-11e7-908f-bedef8140dd4.png)
+# "Tree" image dehazed by proposed CEP
+![tree_cep](https://cloud.githubusercontent.com/assets/21355219/24341086/266b4b30-12f2-11e7-924c-adeb5eb9dff6.png)
 
