@@ -32,7 +32,7 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Input "House" image and transmission by proposed CEP
 ![house_input](https://cloud.githubusercontent.com/assets/21355219/24340699/356c1900-12ef-11e7-8645-311d2cf12cb2.png)
 ![house_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352659/7a254a4a-1325-11e7-887a-5b8aa76bbff1.png)
-# Dehazed by DCP and # Color-line
+# Dehazed by DCP and Color-line
 ![house_dc](https://cloud.githubusercontent.com/assets/21355219/24340701/356c5e10-12ef-11e7-914e-184fcb63285c.png)
 ![house_cl](https://cloud.githubusercontent.com/assets/21355219/24340703/356e662e-12ef-11e7-90fd-aebe61acd225.png)
 # Dehazed by Haze-line and proposed CEP
@@ -65,43 +65,34 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Dehazed by proposed CEP
 ![tiananmen_cep](https://cloud.githubusercontent.com/assets/21355219/24344367/23b1a2f4-1306-11e7-8ec3-6d65b7ee5783.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "Cityscape" image
+# Input "Cityscape" image transmission by proposed CEP
 ![cityscape_input](https://cloud.githubusercontent.com/assets/21355219/24340871/7b2066ee-12f0-11e7-84b3-e6a15b1cf99b.png)
-# Transmission by proposed CEP
 ![cityscape_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352657/7a00feec-1325-11e7-8032-b0debc6b4565.png)
-# Dehazed by DCP
+# Dehazed by DCP and Color-line
 ![cityscape_dc](https://cloud.githubusercontent.com/assets/21355219/24340867/7b1d0bac-12f0-11e7-9313-e6dfb1a3a352.png)
-# Dehazed by Color-line
 ![cityscape_cl](https://cloud.githubusercontent.com/assets/21355219/24340869/7b1e0980-12f0-11e7-97c0-4472b544cc12.png)
-# Dehazed by Haze-line
+# Dehazed by Haze-line and proposed CEP
 ![cityscape_hl](https://cloud.githubusercontent.com/assets/21355219/24340870/7b1e66c8-12f0-11e7-8776-efa932e890a1.png)
-# Dehazed by proposed CEP
 ![cityscape_cep](https://cloud.githubusercontent.com/assets/21355219/24340868/7b1dfaf8-12f0-11e7-9f59-b4363c992da6.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "Flags" image
+# Input "Flags" image transmission by proposed CEP
 ![flags_input](https://cloud.githubusercontent.com/assets/21355219/24341028/bf6d0f7c-12f1-11e7-862e-1b5423c90d1a.png)
-# Transmission by proposed CEP
 ![flags_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352660/7a2595fe-1325-11e7-9a45-26a61261957e.png)
-# Dehazed by DCP
+# Dehazed by DCP and Color-line
 ![flags_dc](https://cloud.githubusercontent.com/assets/21355219/24341027/bf6a1628-12f1-11e7-87c9-ee1a6597426f.png)
-# Dehazed by Color-line
 ![flags_cl](https://cloud.githubusercontent.com/assets/21355219/24341026/bf6600ce-12f1-11e7-8a2e-ad518c07ada9.png)
-# Dehazed by Haze-line
+# Dehazed by Haze-line and proposed CEP
 ![flags_hl](https://cloud.githubusercontent.com/assets/21355219/24341030/bf71d0fc-12f1-11e7-88aa-adb3436a160a.png)
-# Dehazed by proposed CEP
 ![flags_cep](https://cloud.githubusercontent.com/assets/21355219/24341029/bf70fdb2-12f1-11e7-9593-a7f9425e8a88.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "Tree" image
+# Input "Tree" image and transmission by proposed CEP
 ![tree_input](https://cloud.githubusercontent.com/assets/21355219/24341085/266b29b6-12f2-11e7-8815-16dfa7f33aad.png)
-# Transmission by proposed CEP
 ![tree_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352668/7a4fcb30-1325-11e7-97e1-14594900b3cc.png)
-# Dehazed by DCP
+# Dehazed by DCP and Color-line
 ![tree_dc](https://cloud.githubusercontent.com/assets/21355219/24341087/266b3a3c-12f2-11e7-835b-efe98118a0d9.png)
-# Dehazed by Color-line
 ![tree_cl](https://cloud.githubusercontent.com/assets/21355219/24341084/2669774c-12f2-11e7-88e1-9d45cb25979d.png)
-# Dehazed by Haze-line
+# Dehazed by Haze-line and proposed CEP
 ![tree_hl](https://cloud.githubusercontent.com/assets/21355219/24341083/266917de-12f2-11e7-908f-bedef8140dd4.png)
-# Dehazed by proposed CEP
 ![tree_cep](https://cloud.githubusercontent.com/assets/21355219/24341086/266b4b30-12f2-11e7-924c-adeb5eb9dff6.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Train" image
