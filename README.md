@@ -44,14 +44,7 @@
 # "Road" image dehazed by proposed CEP
 ![road_cep](https://cloud.githubusercontent.com/assets/21355219/24340764/991b8e36-12ef-11e7-9f1f-96a89303402c.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "Tiananmen" image
-![tiananmen_input](https://cloud.githubusercontent.com/assets/21355219/24340802/eca6be86-12ef-11e7-9bcf-1ff9cef18e91.png)
-# "Tiananmen" image dehazed by DCP
-![tiananmen_dc](https://cloud.githubusercontent.com/assets/21355219/24340804/eca74fcc-12ef-11e7-9510-9dbf5ed6fa05.png)
-# "Tiananmen" image dehazed by Color-line
-![tiananmen_cl](https://cloud.githubusercontent.com/assets/21355219/24340803/eca75288-12ef-11e7-89a0-c2f532b22229.png)
-# "Tiananmen" image dehazed by Haze-line
-![tiananmen_hl](https://cloud.githubusercontent.com/assets/21355219/24340801/eca67a8e-12ef-11e7-9643-7cd876e42006.png)
-# "Tiananmen" image dehazed by proposed CEP
-![tiananmen_cep](https://cloud.githubusercontent.com/assets/21355219/24340800/eca49494-12ef-11e7-8a80-8d37195e325e.png)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
