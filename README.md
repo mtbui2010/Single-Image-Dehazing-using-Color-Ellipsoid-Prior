@@ -185,9 +185,12 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Transmission by proposed CEP
 ![khu2_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24354044/665caca0-132b-11e7-827d-9b5e66acfca1.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "KHU1" image
+# Input "KHU3" image
+![khu3](https://cloud.githubusercontent.com/assets/21355219/24354083/853e2cd4-132b-11e7-84f6-d6d152132f48.png)
 # Dehazed by proposed CEP
+![khu3_cep](https://cloud.githubusercontent.com/assets/21355219/24354080/850bf75a-132b-11e7-99df-e589e10f02c1.png)
 # Transmission by proposed CEP
+![khu3_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24354081/850e1a58-132b-11e7-8fcc-bb5aa8d28b2a.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "KHU1" image
 # Dehazed by proposed CEP
