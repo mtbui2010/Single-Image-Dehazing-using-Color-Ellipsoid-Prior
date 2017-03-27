@@ -2,8 +2,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Forest" image
 ![forest_input](https://cloud.githubusercontent.com/assets/21355219/24338271/05f9d5a0-12df-11e7-9eac-bbbb4a71f9ad.png)
-<img src="https://cloud.githubusercontent.com/assets/21355219/24338271/05f9d5a0-12df-11e7-9eac-bbbb4a71f9ad.png" width="100">
-<img src="https://cloud.githubusercontent.com/assets/21355219/24338271/05f9d5a0-12df-11e7-9eac-bbbb4a71f9ad.png" width="100">
+<img src="https://cloud.githubusercontent.com/assets/21355219/24338271/05f9d5a0-12df-11e7-9eac-bbbb4a71f9ad.png" width="1080">
 # "Forest" image dehazed by DCP
 ![forest_dc](https://cloud.githubusercontent.com/assets/21355219/24340534/ec8c5e58-12ed-11e7-95de-e2f4184c4d72.png)
 # "Forest" image dehazed by Color-line
@@ -15,6 +14,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Cones" image
 ![cones_input](https://cloud.githubusercontent.com/assets/21355219/24340658/e8ba23d6-12ee-11e7-96ec-7c87e58a7f54.png)
+<img src="https://cloud.githubusercontent.com/assets/21355219/24340658/e8ba23d6-12ee-11e7-96ec-7c87e58a7f54.png" width="1080">
 # "Cones" image dehazed by DCP
 ![cones_dc](https://cloud.githubusercontent.com/assets/21355219/24340666/fded229e-12ee-11e7-93d6-ed6f580503e7.png)
 # "Cones" image dehazed by Color-line
