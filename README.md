@@ -98,4 +98,15 @@
 ![train_hl](https://cloud.githubusercontent.com/assets/21355219/24341128/70c85cb8-12f2-11e7-88fa-d9969b39feff.png)
 # "Train" image dehazed by proposed CEP
 ![train_cep](https://cloud.githubusercontent.com/assets/21355219/24341125/70c73cfc-12f2-11e7-92d5-f850f951f30f.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Canon" image
+![canon_input](https://cloud.githubusercontent.com/assets/21355219/24341157/b294e508-12f2-11e7-846a-76802c21aa4d.png)
+# "Canon" image dehazed by DCP
+![canon_dc](https://cloud.githubusercontent.com/assets/21355219/24341156/b29475dc-12f2-11e7-8f1e-f57728e07402.png)
+# "Canon" image dehazed by Color-line
+![canon_cl](https://cloud.githubusercontent.com/assets/21355219/24341154/b294364e-12f2-11e7-9208-02ad724572ed.png)
+# "Canon" image dehazed by Haze-line
+![canon_hl](https://cloud.githubusercontent.com/assets/21355219/24341158/b297b666-12f2-11e7-9b11-1fd86a013525.png)
+# "Canon" image dehazed by proposed CEP
+![canon_cep](https://cloud.githubusercontent.com/assets/21355219/24341155/b29464ca-12f2-11e7-95a0-ad8e3070d217.png)
 
