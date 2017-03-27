@@ -16,6 +16,7 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Cones" image
 ![cones_input](https://cloud.githubusercontent.com/assets/21355219/24340658/e8ba23d6-12ee-11e7-96ec-7c87e58a7f54.png)
+![cones_input](https://cloud.githubusercontent.com/assets/21355219/24340658/e8ba23d6-12ee-11e7-96ec-7c87e58a7f54.png)
 # "Cones" image dehazed by DCP
 ![cones_dc](https://cloud.githubusercontent.com/assets/21355219/24340666/fded229e-12ee-11e7-93d6-ed6f580503e7.png)
 # "Cones" image dehazed by Color-line
