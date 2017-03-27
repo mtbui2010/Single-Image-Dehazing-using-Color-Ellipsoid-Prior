@@ -109,4 +109,16 @@
 ![canon_hl](https://cloud.githubusercontent.com/assets/21355219/24341158/b297b666-12f2-11e7-9b11-1fd86a013525.png)
 # "Canon" image dehazed by proposed CEP
 ![canon_cep](https://cloud.githubusercontent.com/assets/21355219/24341155/b29464ca-12f2-11e7-95a0-ad8e3070d217.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Mahattan" image
+![ny12_input](https://cloud.githubusercontent.com/assets/21355219/24341194/09327394-12f3-11e7-9e83-db132829a4fb.png)
+# "Mahattan" image dehazed by DCP
+![ny12_dc](https://cloud.githubusercontent.com/assets/21355219/24341191/09322b1e-12f3-11e7-9ab1-f8af385babe5.png)
+# "Mahattan" image dehazed by Color-line
+![ny12_cl](https://cloud.githubusercontent.com/assets/21355219/24341193/09324dba-12f3-11e7-8eb1-29b59ae566c8.png)
+# "Mahattan" image dehazed by Haze-line
+![ny12_hl](https://cloud.githubusercontent.com/assets/21355219/24341192/09324b1c-12f3-11e7-9502-c635de7e60df.png)
+# "Mahattan" image dehazed by proposed CEP
+![ny12_cep](https://cloud.githubusercontent.com/assets/21355219/24341195/09351702-12f3-11e7-8454-43cbf8818e34.png)
+
 
