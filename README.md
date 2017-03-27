@@ -135,7 +135,8 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![ny12_cep](https://cloud.githubusercontent.com/assets/21355219/24341195/09351702-12f3-11e7-8454-43cbf8818e34.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Swan" image
-![swan_input](https://cloud.githubusercontent.com/assets/21355219/24341248/5b1146ea-12f3-11e7-8313-af494dd8f37a.png)# Transmission by #proposed CEP
+![swan_input](https://cloud.githubusercontent.com/assets/21355219/24341248/5b1146ea-12f3-11e7-8313-af494dd8f37a.png)
+# Transmission by proposed CEP
 ![swan_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352667/7a4e4d6e-1325-11e7-9dce-8963a13c0d55.png)
 # Dehazed by DCP
 ![swan_dc](https://cloud.githubusercontent.com/assets/21355219/24341246/5b10ef88-12f3-11e7-91bc-0d8818c1bba1.png)
