@@ -29,17 +29,14 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Dehazed by proposed CEP
 ![cones_cep](https://cloud.githubusercontent.com/assets/21355219/24340680/125f9630-12ef-11e7-9e1d-a52a457c0616.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "House" image
+# Input "House" image and transmission by proposed CEP
 ![house_input](https://cloud.githubusercontent.com/assets/21355219/24340699/356c1900-12ef-11e7-8645-311d2cf12cb2.png)
-# Transmission by proposed CEP
 ![house_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352659/7a254a4a-1325-11e7-887a-5b8aa76bbff1.png)
-# Dehazed by DCP
+# Dehazed by DCP and # Color-line
 ![house_dc](https://cloud.githubusercontent.com/assets/21355219/24340701/356c5e10-12ef-11e7-914e-184fcb63285c.png)
-# Dehazed by Color-line
 ![house_cl](https://cloud.githubusercontent.com/assets/21355219/24340703/356e662e-12ef-11e7-90fd-aebe61acd225.png)
-# Dehazed by Haze-line
+# Dehazed by Haze-line and proposed CEP
 ![house_hl](https://cloud.githubusercontent.com/assets/21355219/24340700/356c1888-12ef-11e7-82a2-54fc3594c1d5.png)
-# Dehazed by proposed CEP
 ![house_cep](https://cloud.githubusercontent.com/assets/21355219/24340702/356d449c-12ef-11e7-8314-0374827234f9.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Road" image
