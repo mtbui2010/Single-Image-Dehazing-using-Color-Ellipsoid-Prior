@@ -2,7 +2,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Forest" image
 ![forest_input](https://cloud.githubusercontent.com/assets/21355219/24338271/05f9d5a0-12df-11e7-9eac-bbbb4a71f9ad.png)
-<img src="https://cloud.githubusercontent.com/assets/21355219/24338271/05f9d5a0-12df-11e7-9eac-bbbb4a71f9ad.png">
+<img src="https://cloud.githubusercontent.com/assets/21355219/24338271/05f9d5a0-12df-11e7-9eac-bbbb4a71f9ad.png" width="100">
+<img src="https://cloud.githubusercontent.com/assets/21355219/24338271/05f9d5a0-12df-11e7-9eac-bbbb4a71f9ad.png" width="100">
 # "Forest" image dehazed by DCP
 ![forest_dc](https://cloud.githubusercontent.com/assets/21355219/24340534/ec8c5e58-12ed-11e7-95de-e2f4184c4d72.png)
 # "Forest" image dehazed by Color-line
