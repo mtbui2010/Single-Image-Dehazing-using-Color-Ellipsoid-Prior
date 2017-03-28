@@ -3,8 +3,8 @@ By Trung Minh Bui, and Wonha Kim
 
 # Introduction
 
-
-Dehazing results:
+# Dehazing results
+The orirginal and resulting image file can be fully  downloaded at:
 https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Lake" image
