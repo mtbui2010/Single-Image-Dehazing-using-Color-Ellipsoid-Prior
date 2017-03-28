@@ -3,19 +3,19 @@
 Dehazing results:
 https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "Stage" image
-![khu1](https://cloud.githubusercontent.com/assets/21355219/24353969/19b94322-132b-11e7-9c2d-6c46a391ac37.png)
-# Dehazed by proposed CEP
-![khu1_cep](https://cloud.githubusercontent.com/assets/21355219/24353967/19b73af0-132b-11e7-93e1-80602044597c.png)
-# Transmission by proposed CEP
-![khu1_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24353968/19b81c54-132b-11e7-9b56-012dafc0450c.png)
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Lake" image
 ![khu2](https://cloud.githubusercontent.com/assets/21355219/24354045/666585a0-132b-11e7-8400-da08a6fe03a1.png)
 # Dehazed by proposed CEP
 ![khu2_cep](https://cloud.githubusercontent.com/assets/21355219/24354043/665af9a0-132b-11e7-9edf-56da687be247.png)
 # Transmission by proposed CEP
 ![khu2_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24354044/665caca0-132b-11e7-827d-9b5e66acfca1.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Stage" image
+![khu1](https://cloud.githubusercontent.com/assets/21355219/24353969/19b94322-132b-11e7-9c2d-6c46a391ac37.png)
+# Dehazed by proposed CEP
+![khu1_cep](https://cloud.githubusercontent.com/assets/21355219/24353967/19b73af0-132b-11e7-93e1-80602044597c.png)
+# Transmission by proposed CEP
+![khu1_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24353968/19b81c54-132b-11e7-9b56-012dafc0450c.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Hill1" image
 ![khu3](https://cloud.githubusercontent.com/assets/21355219/24354083/853e2cd4-132b-11e7-84f6-d6d152132f48.png)
