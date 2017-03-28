@@ -13,8 +13,7 @@ method that is statistically robust against image signal
 randomness, performs effectively across a wide range of haze
 degrees, does not require any post-refinement process, and
 does not produce any apparently visible noise or halo artifacts.
-Currently, it is one
-of the fastest image dehazing method.
+Currently, it is one of the fastest image dehazing methods.
 # Dehazing results
 The orirginal and resulting image files can be fully  downloaded at:
 https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
