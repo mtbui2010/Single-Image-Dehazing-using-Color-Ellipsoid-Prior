@@ -18,6 +18,13 @@ Currently, it is one of the fastest image dehazing methods.
 The orirginal and resulting image files can be fully  downloaded at:
 https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Stage" image
+![khu1](https://cloud.githubusercontent.com/assets/21355219/24391095/ec30aa38-13c7-11e7-8638-22b3801dccb4.png)
+# Dehazed by proposed CEP
+![khu1_cep](https://cloud.githubusercontent.com/assets/21355219/24391092/ec301492-13c7-11e7-8607-39aefead0ae0.png)
+# Transmission by proposed CEP
+![khu1_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24353968/19b81c54-132b-11e7-9b56-012dafc0450c.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Lake" image
 ![khu2](https://cloud.githubusercontent.com/assets/21355219/24391094/ec30498a-13c7-11e7-9c71-27458aebdfd2.png)
 # Dehazed by proposed CEP
@@ -31,13 +38,6 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![khu3_cep](https://cloud.githubusercontent.com/assets/21355219/24354080/850bf75a-132b-11e7-99df-e589e10f02c1.png)
 # Transmission by proposed CEP
 ![khu3_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24354081/850e1a58-132b-11e7-8fcc-bb5aa8d28b2a.png)
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "Stage" image
-![khu1](https://cloud.githubusercontent.com/assets/21355219/24391095/ec30aa38-13c7-11e7-8638-22b3801dccb4.png)
-# Dehazed by proposed CEP
-![khu1_cep](https://cloud.githubusercontent.com/assets/21355219/24391092/ec301492-13c7-11e7-8607-39aefead0ae0.png)
-# Transmission by proposed CEP
-![khu1_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24353968/19b81c54-132b-11e7-9b56-012dafc0450c.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "School_road" image
 ![khu4](https://cloud.githubusercontent.com/assets/21355219/24391097/ec4b56bc-13c7-11e7-9b53-0c60b28e77be.png)
