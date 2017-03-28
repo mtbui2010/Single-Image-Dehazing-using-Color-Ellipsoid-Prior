@@ -76,10 +76,10 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Input "Flags" image transmission by proposed CEP
 ![flags_input](https://cloud.githubusercontent.com/assets/21355219/24341028/bf6d0f7c-12f1-11e7-862e-1b5423c90d1a.png)
 ![flags_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352660/7a2595fe-1325-11e7-9a45-26a61261957e.png)
-# Dehazed by DCP and Color-line
+# Dehazed by DCP and Haze-line
 ![flags_dc](https://cloud.githubusercontent.com/assets/21355219/24341027/bf6a1628-12f1-11e7-87c9-ee1a6597426f.png)
 ![flags_hl](https://cloud.githubusercontent.com/assets/21355219/24341030/bf71d0fc-12f1-11e7-88aa-adb3436a160a.png)
-# Dehazed by Haze-line and proposed CEP
+# Dehazed by Color-line and proposed CEP
 ![flags_cl](https://cloud.githubusercontent.com/assets/21355219/24341026/bf6600ce-12f1-11e7-8a2e-ad518c07ada9.png)
 ![flags_cep](https://cloud.githubusercontent.com/assets/21355219/24341029/bf70fdb2-12f1-11e7-9593-a7f9425e8a88.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
