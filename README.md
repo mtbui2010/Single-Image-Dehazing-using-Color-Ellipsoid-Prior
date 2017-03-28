@@ -125,10 +125,10 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Input "House" image and transmission by proposed CEP
 ![house_input](https://cloud.githubusercontent.com/assets/21355219/24340699/356c1900-12ef-11e7-8645-311d2cf12cb2.png)
 ![house_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352659/7a254a4a-1325-11e7-887a-5b8aa76bbff1.png)
-# Dehazed by DCP and Color-line
+# Dehazed by DCP and Haze-line
 ![house_dc](https://cloud.githubusercontent.com/assets/21355219/24340701/356c5e10-12ef-11e7-914e-184fcb63285c.png)
 ![house_hl](https://cloud.githubusercontent.com/assets/21355219/24340700/356c1888-12ef-11e7-82a2-54fc3594c1d5.png)
-# Dehazed by Haze-line and proposed CEP
+# Dehazed by Color-line and proposed CEP
 ![house_cl](https://cloud.githubusercontent.com/assets/21355219/24340703/356e662e-12ef-11e7-90fd-aebe61acd225.png)
 ![house_cep](https://cloud.githubusercontent.com/assets/21355219/24399392/899e2cd6-13e7-11e7-94e3-12821cf9ff17.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -161,20 +161,20 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Input "Cityscape" image transmission by proposed CEP
 ![cityscape_input](https://cloud.githubusercontent.com/assets/21355219/24340871/7b2066ee-12f0-11e7-84b3-e6a15b1cf99b.png)
 ![cityscape_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352657/7a00feec-1325-11e7-8032-b0debc6b4565.png)
-# Dehazed by DCP and Color-line
+# Dehazed by DCP and Haze-line
 ![cityscape_dc](https://cloud.githubusercontent.com/assets/21355219/24340867/7b1d0bac-12f0-11e7-9313-e6dfb1a3a352.png)
 ![cityscape_hl](https://cloud.githubusercontent.com/assets/21355219/24340870/7b1e66c8-12f0-11e7-8776-efa932e890a1.png)
-# Dehazed by Haze-line and proposed CEP
+# Dehazed by Color-line and proposed CEP
 ![cityscape_cl](https://cloud.githubusercontent.com/assets/21355219/24340869/7b1e0980-12f0-11e7-97c0-4472b544cc12.png)
 ![cityscape_cep](https://cloud.githubusercontent.com/assets/21355219/24398843/e4f2b00e-13e5-11e7-8505-cf80dc9424f9.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Tree" image and transmission by proposed CEP
 ![tree_input](https://cloud.githubusercontent.com/assets/21355219/24341085/266b29b6-12f2-11e7-8815-16dfa7f33aad.png)
 ![tree_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352668/7a4fcb30-1325-11e7-97e1-14594900b3cc.png)
-# Dehazed by DCP and Color-line
+# Dehazed by DCP and Haze-line
 ![tree_dc](https://cloud.githubusercontent.com/assets/21355219/24341087/266b3a3c-12f2-11e7-835b-efe98118a0d9.png)
 ![tree_hl](https://cloud.githubusercontent.com/assets/21355219/24341083/266917de-12f2-11e7-908f-bedef8140dd4.png)
-# Dehazed by Haze-line and proposed CEP
+# Dehazed by Color-line and proposed CEP
 ![tree_cl](https://cloud.githubusercontent.com/assets/21355219/24341084/2669774c-12f2-11e7-88e1-9d45cb25979d.png)
 ![tree_cep](https://cloud.githubusercontent.com/assets/21355219/24398834/dce3484c-13e5-11e7-9520-06e8b6dab1e2.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
