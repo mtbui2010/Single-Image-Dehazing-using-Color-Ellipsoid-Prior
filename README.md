@@ -1,7 +1,10 @@
 # Single Image Dehazing Using Color Ellipsoid Prior
 By Trung Minh Bui, and Wonha Kim IEEE Senior Member 
+
 College of Electronics and Information, 
+
 Kyung Hee University, Kiheung, Kyunggi-do, Korea 
+
 Email:minhtrung@khu.ac.kr, wonha@khu.ac.kr
 
 # Introduction
