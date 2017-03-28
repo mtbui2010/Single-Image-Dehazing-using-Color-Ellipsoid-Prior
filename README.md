@@ -130,7 +130,7 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![house_hl](https://cloud.githubusercontent.com/assets/21355219/24340700/356c1888-12ef-11e7-82a2-54fc3594c1d5.png)
 # Dehazed by Haze-line and proposed CEP
 ![house_cl](https://cloud.githubusercontent.com/assets/21355219/24340703/356e662e-12ef-11e7-90fd-aebe61acd225.png)
-![house_cep](https://cloud.githubusercontent.com/assets/21355219/24398949/2660cfa8-13e6-11e7-9d55-b32d9a5bd217.png)
+![house_cep](https://cloud.githubusercontent.com/assets/21355219/24399392/899e2cd6-13e7-11e7-94e3-12821cf9ff17.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Road" image
 ![road_input](https://cloud.githubusercontent.com/assets/21355219/24340765/991b916a-12ef-11e7-8c29-087faf44a445.png)
@@ -143,7 +143,7 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Dehazed by Color-line
 ![road_cl](https://cloud.githubusercontent.com/assets/21355219/24340762/98d95048-12ef-11e7-9829-45e18b31ae0a.png)
 # Dehazed by proposed CEP
-![road_cep](https://cloud.githubusercontent.com/assets/21355219/24398837/dfa7ecae-13e5-11e7-8155-a96d99cff43b.png)
+![road_cep](https://cloud.githubusercontent.com/assets/21355219/24399393/89c64b9e-13e7-11e7-9198-4538c818931c.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Swan" image
 ![swan_input](https://cloud.githubusercontent.com/assets/21355219/24341248/5b1146ea-12f3-11e7-8313-af494dd8f37a.png)
