@@ -202,7 +202,7 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Dehazed by Color-line
 ![swan_cl](https://cloud.githubusercontent.com/assets/21355219/24341249/5b11782c-12f3-11e7-8a84-3edbae7c21b3.png)
 # Dehazed by proposed CEP
-![swan_cep](https://cloud.githubusercontent.com/assets/21355219/24341247/5b114a3c-12f3-11e7-98c2-a22ac1fb1974.png)
+![swan_cep](https://cloud.githubusercontent.com/assets/21355219/24386103/b324abdc-13a8-11e7-8914-214c04a7704f.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Stadium" image
 ![stadium_input](https://cloud.githubusercontent.com/assets/21355219/24341284/9fa91936-12f3-11e7-89d3-a5f84b42d882.png)
