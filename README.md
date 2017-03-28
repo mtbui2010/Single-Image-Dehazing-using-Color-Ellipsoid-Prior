@@ -1,4 +1,8 @@
-# Single-Image-Dehazing-using-Color-Ellipsoid-Prior
+# Single Image Dehazing Using Color Ellipsoid Prior
+By Trung Minh Bui, and Wonha Kim
+
+# Introduction
+
 
 Dehazing results:
 https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
