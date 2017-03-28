@@ -5,7 +5,7 @@ College of Electronics and Information,
 
 Kyung Hee University, Kiheung, Kyunggi-do, Korea 
 
-Email:minhtrung@khu.ac.kr, wonha@khu.ac.kr
+Email: minhtrung@khu.ac.kr, wonha@khu.ac.kr
 
 # Introduction
 Color Ellipsoid Prior is a dichromatic model-based dehazing
