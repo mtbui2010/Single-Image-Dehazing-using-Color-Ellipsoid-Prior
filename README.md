@@ -39,6 +39,19 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Dehazed by proposed CEP
 ![tiananmen_cep](https://cloud.githubusercontent.com/assets/21355219/24344367/23b1a2f4-1306-11e7-8ec3-6d65b7ee5783.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Mahattan" image
+![ny12_input](https://cloud.githubusercontent.com/assets/21355219/24341194/09327394-12f3-11e7-9e83-db132829a4fb.png)
+# Transmission by proposed CEP
+![ny12_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352662/7a277518-1325-11e7-922b-6b43e02e3bcd.png)
+# Dehazed by DCP
+![ny12_dc](https://cloud.githubusercontent.com/assets/21355219/24341191/09322b1e-12f3-11e7-9ab1-f8af385babe5.png)
+# Dehazed by Haze-line
+![ny12_hl](https://cloud.githubusercontent.com/assets/21355219/24341192/09324b1c-12f3-11e7-9502-c635de7e60df.png)
+# Dehazed by Color-line
+![ny12_cl](https://cloud.githubusercontent.com/assets/21355219/24341193/09324dba-12f3-11e7-8eb1-29b59ae566c8.png)
+# Dehazed by proposed CEP
+![ny12_cep](https://cloud.githubusercontent.com/assets/21355219/24341195/09351702-12f3-11e7-8454-43cbf8818e34.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Cones" image
 ![cones_input](https://cloud.githubusercontent.com/assets/21355219/24340658/e8ba23d6-12ee-11e7-96ec-7c87e58a7f54.png)
 # Transmission by proposed CEP
@@ -120,19 +133,6 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![canon_cl](https://cloud.githubusercontent.com/assets/21355219/24341154/b294364e-12f2-11e7-9208-02ad724572ed.png)
 # Dehazed by proposed CEP
 ![canon_cep](https://cloud.githubusercontent.com/assets/21355219/24341155/b29464ca-12f2-11e7-95a0-ad8e3070d217.png)
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "Mahattan" image
-![ny12_input](https://cloud.githubusercontent.com/assets/21355219/24341194/09327394-12f3-11e7-9e83-db132829a4fb.png)
-# Transmission by proposed CEP
-![ny12_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352662/7a277518-1325-11e7-922b-6b43e02e3bcd.png)
-# Dehazed by DCP
-![ny12_dc](https://cloud.githubusercontent.com/assets/21355219/24341191/09322b1e-12f3-11e7-9ab1-f8af385babe5.png)
-# Dehazed by Haze-line
-![ny12_hl](https://cloud.githubusercontent.com/assets/21355219/24341192/09324b1c-12f3-11e7-9502-c635de7e60df.png)
-# Dehazed by Color-line
-![ny12_cl](https://cloud.githubusercontent.com/assets/21355219/24341193/09324dba-12f3-11e7-8eb1-29b59ae566c8.png)
-# Dehazed by proposed CEP
-![ny12_cep](https://cloud.githubusercontent.com/assets/21355219/24341195/09351702-12f3-11e7-8454-43cbf8818e34.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Swan" image
 ![swan_input](https://cloud.githubusercontent.com/assets/21355219/24341248/5b1146ea-12f3-11e7-8313-af494dd8f37a.png)
