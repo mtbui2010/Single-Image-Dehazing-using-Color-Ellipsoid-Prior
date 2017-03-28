@@ -145,6 +145,19 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Dehazed by proposed CEP
 ![road_cep](https://cloud.githubusercontent.com/assets/21355219/24340764/991b8e36-12ef-11e7-9f1f-96a89303402c.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Swan" image
+![swan_input](https://cloud.githubusercontent.com/assets/21355219/24341248/5b1146ea-12f3-11e7-8313-af494dd8f37a.png)
+# Transmission by proposed CEP
+![swan_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352667/7a4e4d6e-1325-11e7-9dce-8963a13c0d55.png)
+# Dehazed by DCP
+![swan_dc](https://cloud.githubusercontent.com/assets/21355219/24341246/5b10ef88-12f3-11e7-91bc-0d8818c1bba1.png)
+# Dehazed by Haze-line
+![swan_hl](https://cloud.githubusercontent.com/assets/21355219/24341250/5b117976-12f3-11e7-9f80-684006254f5b.png)
+# Dehazed by Color-line
+![swan_cl](https://cloud.githubusercontent.com/assets/21355219/24341249/5b11782c-12f3-11e7-8a84-3edbae7c21b3.png)
+# Dehazed by proposed CEP
+![swan_cep](https://cloud.githubusercontent.com/assets/21355219/24386103/b324abdc-13a8-11e7-8914-214c04a7704f.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Cityscape" image transmission by proposed CEP
 ![cityscape_input](https://cloud.githubusercontent.com/assets/21355219/24340871/7b2066ee-12f0-11e7-84b3-e6a15b1cf99b.png)
 ![cityscape_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352657/7a00feec-1325-11e7-8032-b0debc6b4565.png)
@@ -190,19 +203,6 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![canon_cl](https://cloud.githubusercontent.com/assets/21355219/24341154/b294364e-12f2-11e7-9208-02ad724572ed.png)
 # Dehazed by proposed CEP
 ![canon_cep](https://cloud.githubusercontent.com/assets/21355219/24341155/b29464ca-12f2-11e7-95a0-ad8e3070d217.png)
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "Swan" image
-![swan_input](https://cloud.githubusercontent.com/assets/21355219/24341248/5b1146ea-12f3-11e7-8313-af494dd8f37a.png)
-# Transmission by proposed CEP
-![swan_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352667/7a4e4d6e-1325-11e7-9dce-8963a13c0d55.png)
-# Dehazed by DCP
-![swan_dc](https://cloud.githubusercontent.com/assets/21355219/24341246/5b10ef88-12f3-11e7-91bc-0d8818c1bba1.png)
-# Dehazed by Haze-line
-![swan_hl](https://cloud.githubusercontent.com/assets/21355219/24341250/5b117976-12f3-11e7-9f80-684006254f5b.png)
-# Dehazed by Color-line
-![swan_cl](https://cloud.githubusercontent.com/assets/21355219/24341249/5b11782c-12f3-11e7-8a84-3edbae7c21b3.png)
-# Dehazed by proposed CEP
-![swan_cep](https://cloud.githubusercontent.com/assets/21355219/24386103/b324abdc-13a8-11e7-8914-214c04a7704f.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Stadium" image
 ![stadium_input](https://cloud.githubusercontent.com/assets/21355219/24341284/9fa91936-12f3-11e7-89d3-a5f84b42d882.png)
