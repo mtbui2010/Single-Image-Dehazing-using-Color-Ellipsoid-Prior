@@ -9,10 +9,10 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![forest_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352661/7a25b96c-1325-11e7-8f62-5be667b75ced.png)
 # Dehazed by DCP
 ![forest_dc](https://cloud.githubusercontent.com/assets/21355219/24340534/ec8c5e58-12ed-11e7-95de-e2f4184c4d72.png)
-# Dehazed by Color-line
-![forest_cl](https://cloud.githubusercontent.com/assets/21355219/24340551/1818da56-12ee-11e7-8279-0dcf71079943.png)
 # Dehazed by Haze-line
 ![forest_hl](https://cloud.githubusercontent.com/assets/21355219/24340592/70837728-12ee-11e7-8e7f-fe142b90d46e.png)
+# Dehazed by Color-line
+![forest_cl](https://cloud.githubusercontent.com/assets/21355219/24340551/1818da56-12ee-11e7-8279-0dcf71079943.png)
 # Dehazed by proposed CEP
 ![forest_cep](https://cloud.githubusercontent.com/assets/21355219/24344146/0eecf5d6-1305-11e7-917d-80ad2581a065.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -22,10 +22,10 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![cones_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352658/7a24e1ae-1325-11e7-8caa-b98024bfa20a.png)
 # Dehazed by DCP
 ![cones_dc](https://cloud.githubusercontent.com/assets/21355219/24340666/fded229e-12ee-11e7-93d6-ed6f580503e7.png)
-# Dehazed by Color-line
-![cones_cl](https://cloud.githubusercontent.com/assets/21355219/24340671/08721bde-12ef-11e7-97d3-56a97c74e26e.png)
 # Dehazed by Haze-line
 ![cones_hl](https://cloud.githubusercontent.com/assets/21355219/24340681/12600e08-12ef-11e7-9f91-fe7ca988fec9.png)
+# Dehazed by Color-line
+![cones_cl](https://cloud.githubusercontent.com/assets/21355219/24340671/08721bde-12ef-11e7-97d3-56a97c74e26e.png)
 # Dehazed by proposed CEP
 ![cones_cep](https://cloud.githubusercontent.com/assets/21355219/24340680/125f9630-12ef-11e7-9e1d-a52a457c0616.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -34,9 +34,9 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![house_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352659/7a254a4a-1325-11e7-887a-5b8aa76bbff1.png)
 # Dehazed by DCP and Color-line
 ![house_dc](https://cloud.githubusercontent.com/assets/21355219/24340701/356c5e10-12ef-11e7-914e-184fcb63285c.png)
-![house_cl](https://cloud.githubusercontent.com/assets/21355219/24340703/356e662e-12ef-11e7-90fd-aebe61acd225.png)
-# Dehazed by Haze-line and proposed CEP
 ![house_hl](https://cloud.githubusercontent.com/assets/21355219/24340700/356c1888-12ef-11e7-82a2-54fc3594c1d5.png)
+# Dehazed by Haze-line and proposed CEP
+![house_cl](https://cloud.githubusercontent.com/assets/21355219/24340703/356e662e-12ef-11e7-90fd-aebe61acd225.png)
 ![house_cep](https://cloud.githubusercontent.com/assets/21355219/24340702/356d449c-12ef-11e7-8314-0374827234f9.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Road" image
@@ -45,10 +45,10 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![road_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352663/7a299370-1325-11e7-8656-436b20dedb9e.png)
 # Dehazed by DCP
 ![road_dc](https://cloud.githubusercontent.com/assets/21355219/24340763/98ff0b4e-12ef-11e7-8c1d-2d659eca7a2f.png)
-# Dehazed by Color-line
-![road_cl](https://cloud.githubusercontent.com/assets/21355219/24340762/98d95048-12ef-11e7-9829-45e18b31ae0a.png)
 # Dehazed by Haze-line
 ![road_hl](https://cloud.githubusercontent.com/assets/21355219/24340766/991baef2-12ef-11e7-875b-eec52a428abd.png)
+# Dehazed by Color-line
+![road_cl](https://cloud.githubusercontent.com/assets/21355219/24340762/98d95048-12ef-11e7-9829-45e18b31ae0a.png)
 # Dehazed by proposed CEP
 ![road_cep](https://cloud.githubusercontent.com/assets/21355219/24340764/991b8e36-12ef-11e7-9f1f-96a89303402c.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -58,10 +58,10 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![tiananmen_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352665/7a4e3612-1325-11e7-86e4-d1adb480ae00.png)
 # Dehazed by DCP
 ![tiananmen_dc](https://cloud.githubusercontent.com/assets/21355219/24340804/eca74fcc-12ef-11e7-9510-9dbf5ed6fa05.png)
-# Dehazed by Color-line
-![tiananmen_cl](https://cloud.githubusercontent.com/assets/21355219/24340803/eca75288-12ef-11e7-89a0-c2f532b22229.png)
 # Dehazed by Haze-line
 ![tiananmen_hl](https://cloud.githubusercontent.com/assets/21355219/24340801/eca67a8e-12ef-11e7-9643-7cd876e42006.png)
+# Dehazed by Color-line
+![tiananmen_cl](https://cloud.githubusercontent.com/assets/21355219/24340803/eca75288-12ef-11e7-89a0-c2f532b22229.png)
 # Dehazed by proposed CEP
 ![tiananmen_cep](https://cloud.githubusercontent.com/assets/21355219/24344367/23b1a2f4-1306-11e7-8ec3-6d65b7ee5783.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -70,9 +70,9 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![cityscape_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352657/7a00feec-1325-11e7-8032-b0debc6b4565.png)
 # Dehazed by DCP and Color-line
 ![cityscape_dc](https://cloud.githubusercontent.com/assets/21355219/24340867/7b1d0bac-12f0-11e7-9313-e6dfb1a3a352.png)
-![cityscape_cl](https://cloud.githubusercontent.com/assets/21355219/24340869/7b1e0980-12f0-11e7-97c0-4472b544cc12.png)
-# Dehazed by Haze-line and proposed CEP
 ![cityscape_hl](https://cloud.githubusercontent.com/assets/21355219/24340870/7b1e66c8-12f0-11e7-8776-efa932e890a1.png)
+# Dehazed by Haze-line and proposed CEP
+![cityscape_cl](https://cloud.githubusercontent.com/assets/21355219/24340869/7b1e0980-12f0-11e7-97c0-4472b544cc12.png)
 ![cityscape_cep](https://cloud.githubusercontent.com/assets/21355219/24340868/7b1dfaf8-12f0-11e7-9f59-b4363c992da6.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Flags" image transmission by proposed CEP
@@ -80,9 +80,9 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![flags_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352660/7a2595fe-1325-11e7-9a45-26a61261957e.png)
 # Dehazed by DCP and Color-line
 ![flags_dc](https://cloud.githubusercontent.com/assets/21355219/24341027/bf6a1628-12f1-11e7-87c9-ee1a6597426f.png)
-![flags_cl](https://cloud.githubusercontent.com/assets/21355219/24341026/bf6600ce-12f1-11e7-8a2e-ad518c07ada9.png)
-# Dehazed by Haze-line and proposed CEP
 ![flags_hl](https://cloud.githubusercontent.com/assets/21355219/24341030/bf71d0fc-12f1-11e7-88aa-adb3436a160a.png)
+# Dehazed by Haze-line and proposed CEP
+![flags_cl](https://cloud.githubusercontent.com/assets/21355219/24341026/bf6600ce-12f1-11e7-8a2e-ad518c07ada9.png)
 ![flags_cep](https://cloud.githubusercontent.com/assets/21355219/24341029/bf70fdb2-12f1-11e7-9593-a7f9425e8a88.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Tree" image and transmission by proposed CEP
@@ -90,9 +90,9 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![tree_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352668/7a4fcb30-1325-11e7-97e1-14594900b3cc.png)
 # Dehazed by DCP and Color-line
 ![tree_dc](https://cloud.githubusercontent.com/assets/21355219/24341087/266b3a3c-12f2-11e7-835b-efe98118a0d9.png)
-![tree_cl](https://cloud.githubusercontent.com/assets/21355219/24341084/2669774c-12f2-11e7-88e1-9d45cb25979d.png)
-# Dehazed by Haze-line and proposed CEP
 ![tree_hl](https://cloud.githubusercontent.com/assets/21355219/24341083/266917de-12f2-11e7-908f-bedef8140dd4.png)
+# Dehazed by Haze-line and proposed CEP
+![tree_cl](https://cloud.githubusercontent.com/assets/21355219/24341084/2669774c-12f2-11e7-88e1-9d45cb25979d.png)
 ![tree_cep](https://cloud.githubusercontent.com/assets/21355219/24341086/266b4b30-12f2-11e7-924c-adeb5eb9dff6.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Train" image
@@ -101,10 +101,10 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![train_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352666/7a4e7f8c-1325-11e7-99f9-e755195f9d6e.png)
 # "Train" image dehazed by DCP
 ![train_dc](https://cloud.githubusercontent.com/assets/21355219/24341126/70c781a8-12f2-11e7-897b-45ad850ce687.png)
-# Dehazed by Color-line
-![train_cl](https://cloud.githubusercontent.com/assets/21355219/24341129/70ca0bbc-12f2-11e7-88b5-0f525e780a25.png)
 # Dehazed by Haze-line
 ![train_hl](https://cloud.githubusercontent.com/assets/21355219/24341128/70c85cb8-12f2-11e7-88fa-d9969b39feff.png)
+# Dehazed by Color-line
+![train_cl](https://cloud.githubusercontent.com/assets/21355219/24341129/70ca0bbc-12f2-11e7-88b5-0f525e780a25.png)
 # Dehazed by proposed CEP
 ![train_cep](https://cloud.githubusercontent.com/assets/21355219/24341125/70c73cfc-12f2-11e7-92d5-f850f951f30f.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -114,10 +114,10 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![canon_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352656/79d7e48a-1325-11e7-89ae-5a5812c0d07d.png)
 # Dehazed by DCP
 ![canon_dc](https://cloud.githubusercontent.com/assets/21355219/24341156/b29475dc-12f2-11e7-8f1e-f57728e07402.png)
-# Dehazed by Color-line
-![canon_cl](https://cloud.githubusercontent.com/assets/21355219/24341154/b294364e-12f2-11e7-9208-02ad724572ed.png)
 # Dehazed by Haze-line
 ![canon_hl](https://cloud.githubusercontent.com/assets/21355219/24341158/b297b666-12f2-11e7-9b11-1fd86a013525.png)
+# Dehazed by Color-line
+![canon_cl](https://cloud.githubusercontent.com/assets/21355219/24341154/b294364e-12f2-11e7-9208-02ad724572ed.png)
 # Dehazed by proposed CEP
 ![canon_cep](https://cloud.githubusercontent.com/assets/21355219/24341155/b29464ca-12f2-11e7-95a0-ad8e3070d217.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -127,10 +127,10 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![ny12_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352662/7a277518-1325-11e7-922b-6b43e02e3bcd.png)
 # Dehazed by DCP
 ![ny12_dc](https://cloud.githubusercontent.com/assets/21355219/24341191/09322b1e-12f3-11e7-9ab1-f8af385babe5.png)
-# Dehazed by Color-line
-![ny12_cl](https://cloud.githubusercontent.com/assets/21355219/24341193/09324dba-12f3-11e7-8eb1-29b59ae566c8.png)
 # Dehazed by Haze-line
 ![ny12_hl](https://cloud.githubusercontent.com/assets/21355219/24341192/09324b1c-12f3-11e7-9502-c635de7e60df.png)
+# Dehazed by Color-line
+![ny12_cl](https://cloud.githubusercontent.com/assets/21355219/24341193/09324dba-12f3-11e7-8eb1-29b59ae566c8.png)
 # Dehazed by proposed CEP
 ![ny12_cep](https://cloud.githubusercontent.com/assets/21355219/24341195/09351702-12f3-11e7-8454-43cbf8818e34.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -140,10 +140,10 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![swan_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352667/7a4e4d6e-1325-11e7-9dce-8963a13c0d55.png)
 # Dehazed by DCP
 ![swan_dc](https://cloud.githubusercontent.com/assets/21355219/24341246/5b10ef88-12f3-11e7-91bc-0d8818c1bba1.png)
-# Dehazed by Color-line
-![swan_cl](https://cloud.githubusercontent.com/assets/21355219/24341249/5b11782c-12f3-11e7-8a84-3edbae7c21b3.png)
 # Dehazed by Haze-line
 ![swan_hl](https://cloud.githubusercontent.com/assets/21355219/24341250/5b117976-12f3-11e7-9f80-684006254f5b.png)
+# Dehazed by Color-line
+![swan_cl](https://cloud.githubusercontent.com/assets/21355219/24341249/5b11782c-12f3-11e7-8a84-3edbae7c21b3.png)
 # Dehazed by proposed CEP
 ![swan_cep](https://cloud.githubusercontent.com/assets/21355219/24341247/5b114a3c-12f3-11e7-98c2-a22ac1fb1974.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -153,10 +153,10 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 ![stadium_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352664/7a4c88ee-1325-11e7-8148-69ab5488bc13.png)
 # Dehazed by DCP
 ![stadium_dc](https://cloud.githubusercontent.com/assets/21355219/24341285/9fa96bca-12f3-11e7-9e26-3a4550c93972.png)
-# Dehazed by Color-line
-![stadium_hl](https://cloud.githubusercontent.com/assets/21355219/24341288/9fadf21c-12f3-11e7-97c7-6438190276bb.png)
 # Dehazed by Haze-line
 ![stadium_cl](https://cloud.githubusercontent.com/assets/21355219/24341287/9faa6be2-12f3-11e7-8eba-2ff911e841e4.png)
+# Dehazed by Color-line
+![stadium_hl](https://cloud.githubusercontent.com/assets/21355219/24341288/9fadf21c-12f3-11e7-97c7-6438190276bb.png)
 # Dehazed by proposed CEP
 ![stadium_cep](https://cloud.githubusercontent.com/assets/21355219/24341286/9fa96df0-12f3-11e7-9f41-b8677874d222.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
