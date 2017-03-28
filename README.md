@@ -8,9 +8,13 @@ Kyung Hee University, Kiheung, Kyunggi-do, Korea
 Email:minhtrung@khu.ac.kr, wonha@khu.ac.kr
 
 # Introduction
-
+Color Ellipsoid Prior is a dichromatic model-based dehazing
+method that is statistically robust against image signal
+randomness, performs effectively across a wide range of haze
+degrees, does not require any post-refinement process, and
+does not produce any apparently visible noise or halo artifacts.
 # Dehazing results
-The orirginal and resulting image file can be fully  downloaded at:
+The orirginal and resulting image files can be fully  downloaded at:
 https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Lake" image
