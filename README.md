@@ -21,7 +21,7 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Input "Stage" image
 ![khu1](https://cloud.githubusercontent.com/assets/21355219/24392008/04eeb632-13cd-11e7-881f-9fe2736cc6bc.png)
 # Dehazed by proposed CEP
-![khu1_cep](https://cloud.githubusercontent.com/assets/21355219/24392009/04eedcde-13cd-11e7-9bd5-a3b2a235534e.png)
+![khu1_cep](https://cloud.githubusercontent.com/assets/21355219/24448257/8b475662-14ae-11e7-8e46-1b9905807914.png)
 # Transmission by proposed CEP
 ![khu1_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24353968/19b81c54-132b-11e7-9b56-012dafc0450c.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -42,7 +42,7 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Input "School_road" image
 ![khu4](https://cloud.githubusercontent.com/assets/21355219/24392032/19d6db38-13cd-11e7-8b6d-dd93cd2eb5ad.png)
 # Dehazed by proposed CEP
-![khu4_cep](https://cloud.githubusercontent.com/assets/21355219/24392031/19d70338-13cd-11e7-8551-e486fabd0014.png)
+![khu4_cep](https://cloud.githubusercontent.com/assets/21355219/24448258/8b70a102-14ae-11e7-89c9-194f48aeec68.png)
 # Transmission by proposed CEP
 ![khu4_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24354131/b3774efa-132b-11e7-80a7-2d74365acb1b.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
