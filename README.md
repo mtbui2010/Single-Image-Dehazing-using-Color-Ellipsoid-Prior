@@ -71,7 +71,7 @@ https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 # Dehazed by Color-line
 ![forest_cl](https://cloud.githubusercontent.com/assets/21355219/24340551/1818da56-12ee-11e7-8279-0dcf71079943.png)
 # Dehazed by proposed CEP
-![forest_cep](https://cloud.githubusercontent.com/assets/21355219/24344146/0eecf5d6-1305-11e7-917d-80ad2581a065.png)
+![forest_cep](https://cloud.githubusercontent.com/assets/21355219/24483958/7dc69b3c-1536-11e7-83ec-9ddacb0032b0.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Flags" image transmission by proposed CEP
 ![flags_input](https://cloud.githubusercontent.com/assets/21355219/24341028/bf6d0f7c-12f1-11e7-862e-1b5423c90d1a.png)
