@@ -17,8 +17,6 @@ Currently, it is one of the fastest image dehazing methods.
 
 # Download
 [IMAGES] https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
-
-[CODE] Matlab and C/C++ source codes are preparing now ...
 # Dehazing results
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Stage" image
