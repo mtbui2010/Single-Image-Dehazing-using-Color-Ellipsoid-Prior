@@ -16,10 +16,10 @@ does not produce any apparently visible noise or halo artifacts.
 Currently, it is one of the fastest image dehazing methods.
 
 # Download
-The orirginal and dehazed image files can be fully  downloaded at:
+[IMAGES] The orirginal and dehazed image files can be fully  downloaded at:
 https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
 
-Matlab source code is preparing now ...
+[CODE] Matlab and C/C++ source codes are preparing now ...
 # Dehazing results
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Stage" image
