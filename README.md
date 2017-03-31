@@ -14,9 +14,13 @@ randomness, performs effectively across a wide range of haze
 degrees, does not require any post-refinement process, and
 does not produce any apparently visible noise or halo artifacts.
 Currently, it is one of the fastest image dehazing methods.
-# Dehazing results
-The orirginal and resulting image files can be fully  downloaded at:
+
+# Download
+The orirginal and dehazed image files can be fully  downloaded at:
 https://drive.google.com/file/d/0B6VA9ZgxISJcUGtrRUp2REQ4OGM/view
+
+Matlab source code is preparing now ...
+# Dehazing results
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Stage" image
 ![khu1](https://cloud.githubusercontent.com/assets/21355219/24392008/04eeb632-13cd-11e7-881f-9fe2736cc6bc.png)
