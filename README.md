@@ -78,6 +78,42 @@ in IEEE transaction on Image processing, 2017.
 # Dehazed by proposed CEP
 ![forest_cep](https://cloud.githubusercontent.com/assets/21355219/24483958/7dc69b3c-1536-11e7-83ec-9ddacb0032b0.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Mahattan" image
+![ny12_input](https://cloud.githubusercontent.com/assets/21355219/24341194/09327394-12f3-11e7-9e83-db132829a4fb.png)
+# Transmission by proposed CEP
+![ny12_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352662/7a277518-1325-11e7-922b-6b43e02e3bcd.png)
+# Dehazed by DCP
+![ny12_dc](https://cloud.githubusercontent.com/assets/21355219/24341191/09322b1e-12f3-11e7-9ab1-f8af385babe5.png)
+# Dehazed by Haze-line
+![ny12_hl](https://cloud.githubusercontent.com/assets/21355219/24341192/09324b1c-12f3-11e7-9502-c635de7e60df.png)
+# Dehazed by Color-line
+![ny12_cl](https://cloud.githubusercontent.com/assets/21355219/24341193/09324dba-12f3-11e7-8eb1-29b59ae566c8.png)
+# Dehazed by proposed CEP
+![ny12_cep](https://cloud.githubusercontent.com/assets/21355219/24341195/09351702-12f3-11e7-8454-43cbf8818e34.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Tree" image and transmission by proposed CEP
+![tree_input](https://cloud.githubusercontent.com/assets/21355219/24341085/266b29b6-12f2-11e7-8815-16dfa7f33aad.png)
+![tree_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352668/7a4fcb30-1325-11e7-97e1-14594900b3cc.png)
+# Dehazed by DCP and Haze-line
+![tree_dc](https://cloud.githubusercontent.com/assets/21355219/24341087/266b3a3c-12f2-11e7-835b-efe98118a0d9.png)
+![tree_hl](https://cloud.githubusercontent.com/assets/21355219/24341083/266917de-12f2-11e7-908f-bedef8140dd4.png)
+# Dehazed by Color-line and proposed CEP
+![tree_cl](https://cloud.githubusercontent.com/assets/21355219/24341084/2669774c-12f2-11e7-88e1-9d45cb25979d.png)
+![tree_cep](https://cloud.githubusercontent.com/assets/21355219/24398834/dce3484c-13e5-11e7-9520-06e8b6dab1e2.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Input "Swan" image
+![swan_input](https://cloud.githubusercontent.com/assets/21355219/24341248/5b1146ea-12f3-11e7-8313-af494dd8f37a.png)
+# Transmission by proposed CEP
+![swan_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352667/7a4e4d6e-1325-11e7-9dce-8963a13c0d55.png)
+# Dehazed by DCP
+![swan_dc](https://cloud.githubusercontent.com/assets/21355219/24341246/5b10ef88-12f3-11e7-91bc-0d8818c1bba1.png)
+# Dehazed by Haze-line
+![swan_hl](https://cloud.githubusercontent.com/assets/21355219/24341250/5b117976-12f3-11e7-9f80-684006254f5b.png)
+# Dehazed by Color-line
+![swan_cl](https://cloud.githubusercontent.com/assets/21355219/24341249/5b11782c-12f3-11e7-8a84-3edbae7c21b3.png)
+# Dehazed by proposed CEP
+![swan_cep](https://cloud.githubusercontent.com/assets/21355219/24386103/b324abdc-13a8-11e7-8914-214c04a7704f.png)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Flags" image transmission by proposed CEP
 ![flags_input](https://cloud.githubusercontent.com/assets/21355219/24341028/bf6d0f7c-12f1-11e7-862e-1b5423c90d1a.png)
 ![flags_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352660/7a2595fe-1325-11e7-9a45-26a61261957e.png)
@@ -100,19 +136,6 @@ in IEEE transaction on Image processing, 2017.
 ![tiananmen_cl](https://cloud.githubusercontent.com/assets/21355219/24340803/eca75288-12ef-11e7-89a0-c2f532b22229.png)
 # Dehazed by proposed CEP
 ![tiananmen_cep](https://cloud.githubusercontent.com/assets/21355219/24344367/23b1a2f4-1306-11e7-8ec3-6d65b7ee5783.png)
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "Mahattan" image
-![ny12_input](https://cloud.githubusercontent.com/assets/21355219/24341194/09327394-12f3-11e7-9e83-db132829a4fb.png)
-# Transmission by proposed CEP
-![ny12_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352662/7a277518-1325-11e7-922b-6b43e02e3bcd.png)
-# Dehazed by DCP
-![ny12_dc](https://cloud.githubusercontent.com/assets/21355219/24341191/09322b1e-12f3-11e7-9ab1-f8af385babe5.png)
-# Dehazed by Haze-line
-![ny12_hl](https://cloud.githubusercontent.com/assets/21355219/24341192/09324b1c-12f3-11e7-9502-c635de7e60df.png)
-# Dehazed by Color-line
-![ny12_cl](https://cloud.githubusercontent.com/assets/21355219/24341193/09324dba-12f3-11e7-8eb1-29b59ae566c8.png)
-# Dehazed by proposed CEP
-![ny12_cep](https://cloud.githubusercontent.com/assets/21355219/24341195/09351702-12f3-11e7-8454-43cbf8818e34.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Cones" image
 ![cones_input](https://cloud.githubusercontent.com/assets/21355219/24340658/e8ba23d6-12ee-11e7-96ec-7c87e58a7f54.png)
@@ -150,19 +173,6 @@ in IEEE transaction on Image processing, 2017.
 # Dehazed by proposed CEP
 ![road_cep](https://cloud.githubusercontent.com/assets/21355219/24399393/89c64b9e-13e7-11e7-9198-4538c818931c.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "Swan" image
-![swan_input](https://cloud.githubusercontent.com/assets/21355219/24341248/5b1146ea-12f3-11e7-8313-af494dd8f37a.png)
-# Transmission by proposed CEP
-![swan_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352667/7a4e4d6e-1325-11e7-9dce-8963a13c0d55.png)
-# Dehazed by DCP
-![swan_dc](https://cloud.githubusercontent.com/assets/21355219/24341246/5b10ef88-12f3-11e7-91bc-0d8818c1bba1.png)
-# Dehazed by Haze-line
-![swan_hl](https://cloud.githubusercontent.com/assets/21355219/24341250/5b117976-12f3-11e7-9f80-684006254f5b.png)
-# Dehazed by Color-line
-![swan_cl](https://cloud.githubusercontent.com/assets/21355219/24341249/5b11782c-12f3-11e7-8a84-3edbae7c21b3.png)
-# Dehazed by proposed CEP
-![swan_cep](https://cloud.githubusercontent.com/assets/21355219/24386103/b324abdc-13a8-11e7-8914-214c04a7704f.png)
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Cityscape" image transmission by proposed CEP
 ![cityscape_input](https://cloud.githubusercontent.com/assets/21355219/24340871/7b2066ee-12f0-11e7-84b3-e6a15b1cf99b.png)
 ![cityscape_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352657/7a00feec-1325-11e7-8032-b0debc6b4565.png)
@@ -172,16 +182,6 @@ in IEEE transaction on Image processing, 2017.
 # Dehazed by Color-line and proposed CEP
 ![cityscape_cl](https://cloud.githubusercontent.com/assets/21355219/24340869/7b1e0980-12f0-11e7-97c0-4472b544cc12.png)
 ![cityscape_cep](https://cloud.githubusercontent.com/assets/21355219/24398843/e4f2b00e-13e5-11e7-8505-cf80dc9424f9.png)
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Input "Tree" image and transmission by proposed CEP
-![tree_input](https://cloud.githubusercontent.com/assets/21355219/24341085/266b29b6-12f2-11e7-8815-16dfa7f33aad.png)
-![tree_cep_trans](https://cloud.githubusercontent.com/assets/21355219/24352668/7a4fcb30-1325-11e7-97e1-14594900b3cc.png)
-# Dehazed by DCP and Haze-line
-![tree_dc](https://cloud.githubusercontent.com/assets/21355219/24341087/266b3a3c-12f2-11e7-835b-efe98118a0d9.png)
-![tree_hl](https://cloud.githubusercontent.com/assets/21355219/24341083/266917de-12f2-11e7-908f-bedef8140dd4.png)
-# Dehazed by Color-line and proposed CEP
-![tree_cl](https://cloud.githubusercontent.com/assets/21355219/24341084/2669774c-12f2-11e7-88e1-9d45cb25979d.png)
-![tree_cep](https://cloud.githubusercontent.com/assets/21355219/24398834/dce3484c-13e5-11e7-9520-06e8b6dab1e2.png)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Input "Train" image
 ![train_input](https://cloud.githubusercontent.com/assets/21355219/24341127/70c7b448-12f2-11e7-87a6-211672d97774.png)
